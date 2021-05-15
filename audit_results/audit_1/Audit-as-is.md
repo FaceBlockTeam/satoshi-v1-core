@@ -14,7 +14,10 @@ By newbie solidity user -DongData
 - *Tainted selfdestruct:* 无
 - *Tainted storage index:* 有SSTORE，需要确认是否tainted SSTORE instructions that can write to locations that may be changed via external calls. https://ethervm.io/decompile/rinkeby/0x8C847A0E6B48C6E1D77D24A33127443F0C607B02
 
-Resource used:
+### Resource used:
+
 [checklist](https://github.com/cryptofinlabs/audit-checklist)
+
 [coverage](https://github.com/sc-forks/solidity-coverage)
+
 [slither, solidity best practice](https://consensys.github.io/smart-contract-best-practices/security_tools/)
