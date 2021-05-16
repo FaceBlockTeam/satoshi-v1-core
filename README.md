@@ -1,10 +1,11 @@
 # Sats Token
 
-Sats token has the aim to allow everyone to own (a fraction of) bitcoin in affordable cost with crosschain technologies. The token can be redeemed to BTC through DEXs on 1:1 (sat, or 100,000,000th of 1 BTC).
+Sats token has the aim to allow everyone to own (a fraction of) bitcoin, at an affordable cost thanks to crosschain technology! The token can be redeemed to BTC through DEXs on 1:1 (1 sat = 1/100,000,000 of BTC).
 
 
 ###  Prerequisites
 
+TBA
 
 ### Running the tests
 
@@ -16,10 +17,9 @@ Explain how to run the automated tests for this system
 Add additional notes about how to deploy this on a live system
 
 
-### Authors
+### Contributors
 
-* **BlockCoach** - *Initial work* - [刘教链](https://www.chainnews.com/u/072185825487.htm)
-
+*  - *Initial work* - [**Satstoken community**]()
 
 
 ### License
